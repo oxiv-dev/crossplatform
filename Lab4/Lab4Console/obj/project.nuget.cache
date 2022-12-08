@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTkgmu3qyD2rYLixIlDhjBXJ8NPX1vznTdx0+3eCol5v2WgZ2Pn5d3KG+NZs4sRSMkdYp2yB248ZhcJ8rDXxTw==",
+  "success": true,
+  "projectFilePath": "/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/Lab4Console/Lab4Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/oxiv/.nuget/packages/mcmaster.extensions.commandlineutils/4.0.2/mcmaster.extensions.commandlineutils.4.0.2.nupkg.sha512",
+    "/Users/oxiv/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

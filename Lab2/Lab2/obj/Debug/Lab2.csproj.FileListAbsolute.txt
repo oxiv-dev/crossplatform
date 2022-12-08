@@ -1,0 +1,6 @@
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/obj/Debug/Lab2.csprojAssemblyReference.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/obj/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/obj/Debug/Lab2.exe
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab2/Lab2/obj/Debug/Lab2.pdb

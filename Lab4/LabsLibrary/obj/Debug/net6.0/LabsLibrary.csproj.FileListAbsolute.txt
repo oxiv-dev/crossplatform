@@ -1,0 +1,12 @@
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/bin/Debug/net6.0/LabsLibrary.deps.json
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/bin/Debug/net6.0/LabsLibrary.dll
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/bin/Debug/net6.0/LabsLibrary.pdb
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.csproj.AssemblyReference.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.AssemblyInfoInputs.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.AssemblyInfo.cs
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.csproj.CoreCompileInputs.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.dll
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/refint/LabsLibrary.dll
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/LabsLibrary.pdb
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab4/LabsLibrary/obj/Debug/net6.0/ref/LabsLibrary.dll

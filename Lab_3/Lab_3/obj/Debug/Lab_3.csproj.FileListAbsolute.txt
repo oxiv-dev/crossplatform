@@ -1,0 +1,6 @@
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/bin/Debug/Lab_3.exe
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/bin/Debug/Lab_3.pdb
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/obj/Debug/Lab_3.csprojAssemblyReference.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/obj/Debug/Lab_3.csproj.CoreCompileInputs.cache
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/obj/Debug/Lab_3.exe
+/Users/oxiv/uni/4_1/cross/crossplatform/Lab_3/Lab_3/obj/Debug/Lab_3.pdb
